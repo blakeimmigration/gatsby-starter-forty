@@ -72,7 +72,7 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
-                  
+                  </section>
                 
  
         </div>
