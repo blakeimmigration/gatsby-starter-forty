@@ -28,7 +28,7 @@ const Services = (props) => (
                         <img src={pic08} alt="" />
                     </Link>
                     <div className="content">
-                        <div className="inner">
+                        <div className="outer">
                             <header className="major">
                                 <h3>Removal Defense</h3>
                             </header>
