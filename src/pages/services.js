@@ -47,7 +47,7 @@ Immigration Appeals<br /></p>
                         <img src={pic09} alt="" />
                     </Link>
                     <div className="content">
-                        <div className="inner">
+                        <div className="outer">
                             <header className="major">
                                 <h3>Humanitarian Visas</h3>
                             </header>
