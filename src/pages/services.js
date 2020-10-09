@@ -38,9 +38,7 @@ Cancellation of Removal<br />
 Bond Hearings<br />
 Prosecutorial Discretion<br />
 Immigration Appeals<br /></p>
-                            <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Jillian</Link></li>
-                            </ul>
+                           
                         </div>
                     </div>
                 </section>
