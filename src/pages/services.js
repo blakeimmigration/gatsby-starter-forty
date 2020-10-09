@@ -11,10 +11,10 @@ const Services = (props) => (
     <Layout>
         <Helmet>
             <title>Services</title>
-            <meta name="description" content="Landing Page" />
+            <meta name="description" content="Services Page" />
         </Helmet>
 
-        <BannerLanding />
+        <BannerServices />
             <div id="main">
             <section id="one">
                 <div className="inner">
