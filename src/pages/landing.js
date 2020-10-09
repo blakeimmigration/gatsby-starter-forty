@@ -17,14 +17,7 @@ const Landing = (props) => (
 
         <BannerLanding />
 
-        <div id="main">
-            <section id="one">
-                <div className="inner">
-                    <header className="major">
-                        <h2>About Us</h2>
-                    </header>
-                    <p>WE ARE A GROUP OF HARD-WORKING LEGAL PROFESSIONALS WHO HANDLE EACH CASE WITH COMPASSION, DILIGENCE, AND INTEGRITY.</p>
-                </div>
+
             </section>
             <section id="two" className="spotlights">
                 <section>
