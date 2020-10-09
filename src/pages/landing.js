@@ -20,9 +20,7 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2></h2>
                     </header>
-                    <p></p>
                 </div>
             </section>
             <section id="two" className="spotlights">
