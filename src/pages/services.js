@@ -33,9 +33,9 @@ const Services = (props) => (
                                 <h3>Removal Defense</h3>
                             </header>
                             <p> <b>Asylum/Witholding of Removal</b> <br />
-    Fear of Persecution in Your Home Country<br /> 
+    Fear of persecution in your home country for reasons of race, religion, nationality, political opinion, or membership in a particular social group<br /> <br /> 
 <b>Convention Against Torture (CAT) Protection</b> <br />
-    Fear of Torture in Your Home Country<br /> 
+    Fear of torture in your home country<br /> 
 <b>Cancellation of Removal</b><br />
 Bond Hearings<br />
 Prosecutorial Discretion<br />
