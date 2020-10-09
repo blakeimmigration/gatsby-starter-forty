@@ -32,9 +32,11 @@ const Services = (props) => (
                             <header className="major">
                                 <h3>Removal Defense</h3>
                             </header>
-                            <p> <b>Asylum/Witholding of Removal</b> For those who fear return persecution in their home country<br />
-<b>Convention Against Torture (CAT) Protection</b> For those who fear torture in their home country<br />
-<b>Cancellation of Removal</b>For those with significant ties to the United States, whose removal would create hardship for themselves and/or their families<br />
+                            <p> <b>Asylum/Witholding of Removal</b> <br />
+    Fear of Persecution in Your Home Country<br /> 
+<b>Convention Against Torture (CAT) Protection</b> <br />
+    Fear of Torture in Your Home Country<br /> 
+<b>Cancellation of Removal</b><br />
 Bond Hearings<br />
 Prosecutorial Discretion<br />
 Immigration Appeals<br /></p>
