@@ -72,14 +72,7 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
-                   <section id="one">
-                <div className="inner">
-                    <header className="major">
-                    </header>
-                </div>
-            </section>
-            <section id="two" className="spotlights">
-                
+                  
                 
  
         </div>
