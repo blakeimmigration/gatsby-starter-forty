@@ -4,7 +4,7 @@ const BannerServices = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>About Us</h1>
+                <h1>Services</h1>
             </header>
             <div className="content">
                 <p>We have represented clients from all over the world.</p>
