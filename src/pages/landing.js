@@ -74,7 +74,7 @@ const Landing = (props) => (
                 </section>
          
                 
-            </section>
+ 
         </div>
 
     </Layout>
