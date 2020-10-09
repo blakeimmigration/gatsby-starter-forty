@@ -8,7 +8,7 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <p>WE SPECIALIZE IN REMOVAL DEFENSE, ASYLUM, AND FAMILY-BASED IMMIGRATION<br />
-                and released under the Creative Commons.</p>
+                </p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
