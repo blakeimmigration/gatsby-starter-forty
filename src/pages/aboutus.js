@@ -47,4 +47,4 @@ const Landing = (props) => (
     </Layout>
 )
 
-export default Elements
+export default Landing
