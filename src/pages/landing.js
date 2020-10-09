@@ -72,23 +72,8 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
-            <section id="two" className="spotlights">
-                <section>
-                    <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Karina Merchant</h3>
-                            </header>
-                            <p>in Arlington, Virginia. In her free time Jillian enjoys watching movies, writing, watching Cleveland Browns football and Nationals baseball, and spending time with her dog, Cha Cha.</p>
-                            <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Jillian</Link></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+         
+                
             </section>
         </div>
 
